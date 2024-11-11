@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ nitecallx@gmail.com
-- If you have any great sources to learn Ruby please email. Thanks!
-- ⚡ Fun fact: ...
+- If you have any great sources to learn or want to offer any of your knowledge. I love learning new stuff. 
+- ⚡ Fun fact: If you dont learn something new everyday. its time to retire and find something else.
 
 <!---
 ntcllx/ntcllx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
