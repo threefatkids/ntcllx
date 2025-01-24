@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntcllx
-- 👀 I’m interested in Comp Tia A+ Network+ Ruby Jupyter, Android Exploitation.
+- 👀 I’m interested in Comp Tia A+ Network+ Ruby Jupyter, Android Development.
 - 🌱 I’m currently learning Network + 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ jzxt713@gmail.com
