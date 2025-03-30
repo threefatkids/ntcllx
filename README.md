@@ -1,11 +1,11 @@
 - 👀 I’m interested in Comp Tia A+ Network+ Ruby Jupyter, Android Development.
 - 🌱 I’m currently learning Network + 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ jzxt713@gmail.com 
-- ⚡ Fun fact: I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
-It was a trip down Memory Lane.
+- 📫 How to reach me @ codyestep617@gmail.com
+- ⚡ Fun fact: If one way gets patched/fixed, theres always another way. 
+(one door closes, 20 more open) 
 
 <!---
-ntcllx/ntcllx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ThreeFatKids/ThreeFatKids is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
